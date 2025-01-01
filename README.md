@@ -4,5 +4,5 @@ Pythonda mekansal analiz yapmak için bu .shp verisini kullandım.
 Öncelikle gerekli kütüphaneleri pythona ekledim. Sonra shapefile dosyasını ekledim.
 Harita görselleştirmesi için yoğunluk aralıklarını belirledim.
 Daha sonra haritayı oluşturup görselini elde ettim.
-Kodun çalıştığından emin olduktan sonra ArcGIS Arcmap programı arayüzünde Python Konsolunu açtım. Pythonda yazdığım kodu buraya yapıştırdım. Ek olarak import arcpy kodunu yazarak bu modülü de ekledim ve kodu arcmap te çalıştırdım. harita ekrana geldi görselleştirmesini yapıp analizi tamamladım. Sonra gitHub aşamasına geçtim.
+Kodun çalıştığından emin olduktan sonra ArcGIS Arcmap programı arayüzünde Python Konsolunu açtım. Pythonda yazdığım kodu buraya yapıştırdım. Ek olarak import arcpy kodunu yazarak bu modülü de ekledim ve kodu arcmap te çalıştırdım. harita ekrana geldi görselleştirmesini yapıp analizi tamamladım. Sonra gitHub aşamasına geçtim. Gönderdiğim linkte buraya attığım kod görünmüyorsa repository kısmında main değil master seçili olması gerekiyor. Bu şekilde kodlarım görünüyor.
 
