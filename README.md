@@ -9,4 +9,5 @@ Pythonda yazdığım kodu buraya yapıştırdım.
 Ek olarak import arcpy kodunu yazarak bu modülü de ekledim ve kodu arcmap te çalıştırdım. 
 harita ekrana geldi görselleştirmesini yapıp analizi tamamladım. 
 Sonra gitHub aşamasına geçtim. 
+hazırlamış olduğum haritaları da yazdığım kod ile birlikte buradan görüntüleyebilirsiniz.
 
